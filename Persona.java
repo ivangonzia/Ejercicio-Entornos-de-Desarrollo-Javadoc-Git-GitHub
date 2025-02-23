@@ -1,8 +1,10 @@
 package ClasesEj;
 
-// Esta clase representa a un usuario.
-// * @author IvánGonzálezGarcía
-// * @version 1.0
+/**
+ * Esta clase representa a un usuario.
+ * @author Iván González García
+ * @version 1.1
+ */
 
 public class Persona {
 

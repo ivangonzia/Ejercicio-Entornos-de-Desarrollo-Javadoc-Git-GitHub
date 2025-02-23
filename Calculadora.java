@@ -1,8 +1,10 @@
 package ClasesEj;
 
-// Esta clase representa una calculadora simple.
-// * @author IvánGonzálezGarcía
-// * @version 1.0
+/**
+ * Esta clase representa una calculadora simple.
+ * @author Iván González García
+ * @version 1.1
+ */
 
 public class Calculadora {
 
